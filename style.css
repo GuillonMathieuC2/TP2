@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #336699
 }
 
 #header
 {
-	background: #ccc;
+	background: #333399;
 	padding: 20px;
 }
 
@@ -45,6 +45,7 @@
 
 #edito
 {
+	background :#993366;
 	clear: left;
 	padding: 20px;
 	margin: 20px;
@@ -62,13 +63,14 @@
 
 #edito h2
 {
-	color: #000;
+	color: #000033;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
 
 #news
 {	
+background :#993366;
 	float: left;
 	width: 40%;
 	padding: 20px;
@@ -88,7 +90,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #993366;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
